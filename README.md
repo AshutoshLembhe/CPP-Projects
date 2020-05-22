@@ -1,3 +1,3 @@
 # CPP-Projects
-Will Upload CPP Projects here
-The above project is still no complete so do not download!
+Will Upload CPP Projects here.
+The above project is still not complete so do not download!
