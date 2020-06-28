@@ -67,7 +67,7 @@ int main()
     {
     cout<<"01)open account \n";
     cout<<"02)deposite money \n";
-    cout<<"03)withdeaw money \n";
+    cout<<"03)withdraw money \n";
     cout<<"04)display account\n";
     cout<<"05)Exit\n";
     cout<<"please sir, select the option from above ";
