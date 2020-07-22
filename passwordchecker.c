@@ -1,3 +1,5 @@
+/*****Checks if a password enter is an alphaneumeric or not and return true or false******/
+
 #include<stdio.h>
 int len(char pwd[20]);
 int character(char pwd[20]);
